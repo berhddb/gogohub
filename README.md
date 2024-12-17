@@ -152,3 +152,4 @@ Rayfield:Notify({
     Content = "O script foi carregado corretamente!",
     Duration = 5
 })
+
